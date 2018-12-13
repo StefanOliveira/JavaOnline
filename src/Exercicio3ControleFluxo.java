@@ -8,7 +8,7 @@
  */
 public class Exercicio3ControleFluxo {
     public static void main(String[] args) {
-        double salario = 2500;
+        double salario = 2800;
         double imposto;
 
         if(salario < 1000){
