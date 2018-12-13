@@ -7,15 +7,15 @@ public class Exercicio5ControleFluxo {
         int nNumerosPares = 0;
 
         // Utilizando while
-        while(nNumerosPares < 100000){
+        while (nNumerosPares < 100000) {
             nNumerosPares += 2;
             System.out.println(nNumerosPares);
         }
 
         nNumerosPares = 100000;
         // Utilizando for
-        for(int i = 0; i <= nNumerosPares; i++){
-            if(i % 2 == 0){
+        for (int i = 0; i <= nNumerosPares; i++) {
+            if (i % 2 == 0) {
                 System.out.println(i);
             }
         }
