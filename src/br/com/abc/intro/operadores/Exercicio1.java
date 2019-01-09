@@ -1,3 +1,5 @@
+package br.com.abc.intro.operadores;
+
 /**
  * Crie um algoritmo que possua variaveis para salvar os seguintes dados: Nome, Endereço e Telefone de uma Pessoa
  * Imprima essas variaveis da seguinte forma:

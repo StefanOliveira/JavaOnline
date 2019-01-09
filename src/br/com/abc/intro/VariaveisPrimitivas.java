@@ -1,3 +1,5 @@
+package br.com.abc.intro;
+
 public class VariaveisPrimitivas {
     public static void main(String[] args){
         int idade=10;

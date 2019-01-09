@@ -1,3 +1,5 @@
+package br.com.abc.intro.controlefluxo;
+
 /**
  * Crie um switch que dado um valor de 1 a 7
  * Considerando 1 domingo imprima se é dia util ou final de semana

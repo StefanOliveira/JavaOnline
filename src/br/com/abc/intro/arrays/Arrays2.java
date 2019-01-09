@@ -1,3 +1,5 @@
+package br.com.abc.intro.arrays;
+
 /**
  * aula 19 Arrays parte 2
  */

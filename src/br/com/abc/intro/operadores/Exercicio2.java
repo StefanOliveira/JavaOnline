@@ -1,3 +1,5 @@
+package br.com.abc.intro.operadores;
+
 /**
  * Crie um algoritmo que possua as variaveis nome, salario, sexo (M ou F), idade, estado civil.
  * Imprima da Seguinte forma:

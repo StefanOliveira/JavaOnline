@@ -1,3 +1,5 @@
+package br.com.abc.intro;
+
 public class ImprimindoVariaveis {
     public static void main(String[] args){
         int iIdade = 10;
