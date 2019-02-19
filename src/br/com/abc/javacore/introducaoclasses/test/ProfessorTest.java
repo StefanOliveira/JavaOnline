@@ -7,7 +7,7 @@ public class ProfessorTest {
         Professor professor = new Professor();
 
         // Dados da classe Professor
-        professor.nome = "Marco";
+        professor.nome = "Carlos";
         professor.matricula = "1010";
         professor.cpf = "101.010.101-0";
         professor.rg = "10.101.010-10";
