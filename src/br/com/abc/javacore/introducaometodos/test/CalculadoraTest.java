@@ -7,7 +7,10 @@ public class CalculadoraTest {
         Calculadora calc = new Calculadora();
         calc.somaDoisNumeros();
         calc.subtraiDoisNumeros();
-        calc.multiplicaDoisNumeros(5,5);ex
+        calc.multiplicaDoisNumeros(5,5);
+        System.out.println("Divisão de dois números");
+        double result = calc.divideDoisNumeros(20,2);
+        System.out.println(result);
         System.out.println("Continuando a exec");
 
     }
